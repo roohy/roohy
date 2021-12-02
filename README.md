@@ -2,7 +2,7 @@
 
 ## I am a computer scientist interested in population genetics problems!
 
-- :mortar_board: I am currently finishing up my PhD studies at USC Information Sciences Institue.
+- :mortar_board: I am postdoctoral fellow at Icahn School of Medicine at Mount Sinai.
 - :wrench: My current IDE of choice is Visual Studio Code. Although IntelliJ IDE also rocks.
 
 
